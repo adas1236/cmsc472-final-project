@@ -1,0 +1,9 @@
+.claude
+.venv
+
+__pycache__
+data
+logs
+
+CLAUDE.md
+run_slurm_dataset_diffusion.sh
