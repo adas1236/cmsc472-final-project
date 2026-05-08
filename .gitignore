@@ -2,8 +2,10 @@
 .venv
 
 __pycache__
-data
+data/gen_voc_llava
+data/SyntaGen*
 logs
 
 CLAUDE.md
 run_slurm_dataset_diffusion.sh
+run_slurm_llava_crf.sh
