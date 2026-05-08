@@ -42,6 +42,6 @@ source scripts/gen_data_voc_llava_debug_2gpu.sh
 ```
 
 ## References
-We thank the authors of [Dataset Diffusion](https://arxiv.org/pdf/2309.14303), from which much this code is modified (in particular, the `gen_data.py` script). [Repository Here]((https://github.com/VinAIResearch/Dataset-Diffusion/tree/main#))
-We also thank the members of [Team Teddy Bear](https://drive.google.com/file/d/1pQrGnuMIos6yWZZPSmDO4yaYi_8VitjV/view) and [Team HNU-VPAI](https://drive.google.com/file/d/1Vfr1wqmu_-4_qZ6paeZHS7mdKKv4ngfD/view) for their inspiration and influence on this work.
-Finally, we thank the organizers of the [2024 SyntaGen Challenge](https://syntagen.github.io/#syntagen-competition) for their interesting challenge and their helpful [evalution notebook](https://colab.research.google.com/drive/1kizZ0Ix2SNP11qy_VMhr0NLGlI5-oMNT), which was used to create our evaluation notebook.
+* We thank the authors of [Dataset Diffusion](https://arxiv.org/pdf/2309.14303), from which much this code is modified (in particular, the `gen_data.py` script). [Repository Here](https://github.com/VinAIResearch/Dataset-Diffusion/tree/main#)
+* We also thank the members of [Team Teddy Bear](https://drive.google.com/file/d/1pQrGnuMIos6yWZZPSmDO4yaYi_8VitjV/view) and [Team HNU-VPAI](https://drive.google.com/file/d/1Vfr1wqmu_-4_qZ6paeZHS7mdKKv4ngfD/view) for their inspiration and influence on this work.
+* Finally, we thank the organizers of the [2024 SyntaGen Challenge](https://syntagen.github.io/#syntagen-competition) for their interesting challenge and their helpful [evalution notebook](https://colab.research.google.com/drive/1kizZ0Ix2SNP11qy_VMhr0NLGlI5-oMNT), which was used to create our evaluation notebook.
